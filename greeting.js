@@ -4,6 +4,11 @@ module.exports = {
     },
     greetingJapanese: function () {
         console.log("Konichiwa");
+    },
+    greetingSpanish: function () {
+        console.log("Hola");
+    },
+    greetingIcelandic: function () {
+        console.log("Halló");
     }
-    exports = "Hola";
 };
